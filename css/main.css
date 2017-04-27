@@ -1,0 +1,29 @@
+.blue {
+	color: blue;
+}
+
+.largeText {
+	font-size: 3em;
+}
+
+.addBorder {
+	border: solid;
+}
+
+.roundBorder {
+	border: solid;
+	border-radius: 5px;
+}
+
+.makeBold {
+	font-weight: bold;
+}
+
+.boldIt {
+	font-weight: bold;
+	font-style: italic;
+}
+
+.block {
+	display: block;
+}
